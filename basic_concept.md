@@ -7,5 +7,9 @@
     \end{document}  
 # $(x+1)$ to make (x+1) in math representation  
 # $$(x+3)$$ math represent independently in one row  
-# $2x^{34}$ to get 34 the upper subscript of 2x  
-
+# $2x^{34}$ to get 34 the upper superscript of 2x  
+# subscript: use _  
+    ex. $$x_{12}$$  
+# greek letters:  
+    $$A=\pi r^2$$  
+    
