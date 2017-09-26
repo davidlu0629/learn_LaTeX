@@ -12,4 +12,12 @@
     ex. $$x_{12}$$  
 # greek letters:  
     ex. $$A=\pi r^2$$  
-    
+# trig functions:
+    ex. $$y=\sin{x}$$  
+# log function:
+    ex. $$\ln{x}$$
+        $$\log_5{x}$$  
+# square roots:
+    ex. $$\sqrt{2}$$
+        $$\sqrt[3]{2}$$  
+        
