@@ -7,4 +7,5 @@
     \end{document}  
 # $(x+1)$ to make (x+1) in math representation  
 # $$(x+3)$$ math represent independently in one row  
+# $2x^{34}$ to get 34 the upper subscript of 2x  
 
