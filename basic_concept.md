@@ -11,5 +11,5 @@
 # subscript: use _  
     ex. $$x_{12}$$  
 # greek letters:  
-    $$A=\pi r^2$$  
+    ex. $$A=\pi r^2$$  
     
